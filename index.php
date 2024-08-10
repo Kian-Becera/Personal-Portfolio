@@ -27,11 +27,27 @@
         <a href="">Portfolio</a>  
         <a href="">Contact</a>
       </nav>
+    </header>
+    
+     <section class="home">
+        <div class="home-content">
+          <h1>Hi, I'm Kian Becera</h1>
 
-      <section class="home">
-        
+          <h3>Software Developer</h3>
+
+          <p>I like to talk to people. I enjoy learning about other people's lives
+          and backgrounds and meeting new people. I like to make people
+          feel at ease in my presence, and I can almost always connect
+          with strangers</p>
+
+          <div class="btn-box">
+            <a href="#">Hire Me</a>
+            <a href="#">Let's Talk</a>
+          </div>
+        </div>
+
+        </div>
       </section>
-    </header>  
 
 </body>
 </html>
